@@ -33,7 +33,7 @@ public class DroidEmulator extends JFrame {
     }
     
     // Turns the phone off. Does not work yet.
-    public static void turnPhoneOff() {
+    public void turnPhoneOff() {
         /* TODO */
     }
     
